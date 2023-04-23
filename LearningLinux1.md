@@ -201,3 +201,5 @@
 - chacl：更改檔案或目錄的`access control list (ACL) 存取控制清單`
 - ls`attr`：查看檔案和目錄的`屬性(attribute)`
 - ch`attr`：更改檔案和目錄的`屬性(attribute)`
+
+2
